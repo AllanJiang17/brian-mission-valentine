@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/mission-valentine/'
+  base: '/brian-mission-valentine/'
 })
